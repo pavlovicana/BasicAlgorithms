@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\EvenOrOddNumber\EvenOrOddNumber\bin\Debug\EvenOrOddNumber.exe.config
+C:\Users\ASUS\source\repos\EvenOrOddNumber\EvenOrOddNumber\bin\Debug\EvenOrOddNumber.exe
+C:\Users\ASUS\source\repos\EvenOrOddNumber\EvenOrOddNumber\bin\Debug\EvenOrOddNumber.pdb
+C:\Users\ASUS\source\repos\EvenOrOddNumber\EvenOrOddNumber\obj\Debug\EvenOrOddNumber.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\EvenOrOddNumber\EvenOrOddNumber\obj\Debug\EvenOrOddNumber.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\EvenOrOddNumber\EvenOrOddNumber\obj\Debug\EvenOrOddNumber.exe
+C:\Users\ASUS\source\repos\EvenOrOddNumber\EvenOrOddNumber\obj\Debug\EvenOrOddNumber.pdb
