@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\ArrayMax\ArrayMax\bin\Debug\ArrayMax.exe.config
+C:\Users\ASUS\source\repos\ArrayMax\ArrayMax\bin\Debug\ArrayMax.exe
+C:\Users\ASUS\source\repos\ArrayMax\ArrayMax\bin\Debug\ArrayMax.pdb
+C:\Users\ASUS\source\repos\ArrayMax\ArrayMax\obj\Debug\ArrayMax.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ArrayMax\ArrayMax\obj\Debug\ArrayMax.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ArrayMax\ArrayMax\obj\Debug\ArrayMax.exe
+C:\Users\ASUS\source\repos\ArrayMax\ArrayMax\obj\Debug\ArrayMax.pdb
