@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\Average_arrays\Average_arrays\bin\Debug\Average_arrays.exe.config
+C:\Users\ASUS\source\repos\Average_arrays\Average_arrays\bin\Debug\Average_arrays.exe
+C:\Users\ASUS\source\repos\Average_arrays\Average_arrays\bin\Debug\Average_arrays.pdb
+C:\Users\ASUS\source\repos\Average_arrays\Average_arrays\obj\Debug\Average_arrays.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Average_arrays\Average_arrays\obj\Debug\Average_arrays.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Average_arrays\Average_arrays\obj\Debug\Average_arrays.exe
+C:\Users\ASUS\source\repos\Average_arrays\Average_arrays\obj\Debug\Average_arrays.pdb
