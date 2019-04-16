@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\Return_char\Return_char\bin\Debug\Return_char.exe.config
+C:\Users\ASUS\source\repos\Return_char\Return_char\bin\Debug\Return_char.exe
+C:\Users\ASUS\source\repos\Return_char\Return_char\bin\Debug\Return_char.pdb
+C:\Users\ASUS\source\repos\Return_char\Return_char\obj\Debug\Return_char.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Return_char\Return_char\obj\Debug\Return_char.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Return_char\Return_char\obj\Debug\Return_char.exe
+C:\Users\ASUS\source\repos\Return_char\Return_char\obj\Debug\Return_char.pdb
