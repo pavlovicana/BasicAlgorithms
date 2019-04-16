@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\ArraysEquality\ArraysEquality\bin\Debug\ArraysEquality.exe.config
+C:\Users\ASUS\source\repos\ArraysEquality\ArraysEquality\bin\Debug\ArraysEquality.exe
+C:\Users\ASUS\source\repos\ArraysEquality\ArraysEquality\bin\Debug\ArraysEquality.pdb
+C:\Users\ASUS\source\repos\ArraysEquality\ArraysEquality\obj\Debug\ArraysEquality.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ArraysEquality\ArraysEquality\obj\Debug\ArraysEquality.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ArraysEquality\ArraysEquality\obj\Debug\ArraysEquality.exe
+C:\Users\ASUS\source\repos\ArraysEquality\ArraysEquality\obj\Debug\ArraysEquality.pdb
