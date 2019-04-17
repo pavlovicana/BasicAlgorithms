@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\Array_task\Array_task\bin\Debug\Array_task.exe.config
+C:\Users\ASUS\source\repos\Array_task\Array_task\bin\Debug\Array_task.exe
+C:\Users\ASUS\source\repos\Array_task\Array_task\bin\Debug\Array_task.pdb
+C:\Users\ASUS\source\repos\Array_task\Array_task\obj\Debug\Array_task.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Array_task\Array_task\obj\Debug\Array_task.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Array_task\Array_task\obj\Debug\Array_task.exe
+C:\Users\ASUS\source\repos\Array_task\Array_task\obj\Debug\Array_task.pdb
