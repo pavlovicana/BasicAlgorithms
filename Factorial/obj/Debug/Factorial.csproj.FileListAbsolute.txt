@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\Factorial\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\ASUS\source\repos\Factorial\Factorial\bin\Debug\Factorial.exe
+C:\Users\ASUS\source\repos\Factorial\Factorial\bin\Debug\Factorial.pdb
+C:\Users\ASUS\source\repos\Factorial\Factorial\obj\Debug\Factorial.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Factorial\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Factorial\Factorial\obj\Debug\Factorial.exe
+C:\Users\ASUS\source\repos\Factorial\Factorial\obj\Debug\Factorial.pdb
