@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\StringJoin\StringJoin\bin\Debug\StringJoin.exe.config
+C:\Users\ASUS\source\repos\StringJoin\StringJoin\bin\Debug\StringJoin.exe
+C:\Users\ASUS\source\repos\StringJoin\StringJoin\bin\Debug\StringJoin.pdb
+C:\Users\ASUS\source\repos\StringJoin\StringJoin\obj\Debug\StringJoin.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\StringJoin\StringJoin\obj\Debug\StringJoin.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\StringJoin\StringJoin\obj\Debug\StringJoin.exe
+C:\Users\ASUS\source\repos\StringJoin\StringJoin\obj\Debug\StringJoin.pdb
