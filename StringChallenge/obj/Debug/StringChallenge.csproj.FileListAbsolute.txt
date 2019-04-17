@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\StringChallenge\StringChallenge\obj\Debug\StringChallenge.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\StringChallenge\StringChallenge\obj\Debug\StringChallenge.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\StringChallenge\StringChallenge\bin\Debug\StringChallenge.exe.config
+C:\Users\ASUS\source\repos\StringChallenge\StringChallenge\bin\Debug\StringChallenge.exe
+C:\Users\ASUS\source\repos\StringChallenge\StringChallenge\bin\Debug\StringChallenge.pdb
+C:\Users\ASUS\source\repos\StringChallenge\StringChallenge\obj\Debug\StringChallenge.exe
+C:\Users\ASUS\source\repos\StringChallenge\StringChallenge\obj\Debug\StringChallenge.pdb
