@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\StringTask_2\StringTask_2\bin\Debug\StringTask_2.exe.config
+C:\Users\ASUS\source\repos\StringTask_2\StringTask_2\bin\Debug\StringTask_2.exe
+C:\Users\ASUS\source\repos\StringTask_2\StringTask_2\bin\Debug\StringTask_2.pdb
+C:\Users\ASUS\source\repos\StringTask_2\StringTask_2\obj\Debug\StringTask_2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\StringTask_2\StringTask_2\obj\Debug\StringTask_2.exe
+C:\Users\ASUS\source\repos\StringTask_2\StringTask_2\obj\Debug\StringTask_2.pdb
