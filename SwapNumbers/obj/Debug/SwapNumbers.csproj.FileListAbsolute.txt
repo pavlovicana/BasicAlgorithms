@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\SwapNumbers\SwapNumbers\bin\Debug\SwapNumbers.exe.config
+C:\Users\ASUS\source\repos\SwapNumbers\SwapNumbers\bin\Debug\SwapNumbers.exe
+C:\Users\ASUS\source\repos\SwapNumbers\SwapNumbers\bin\Debug\SwapNumbers.pdb
+C:\Users\ASUS\source\repos\SwapNumbers\SwapNumbers\obj\Debug\SwapNumbers.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\SwapNumbers\SwapNumbers\obj\Debug\SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\SwapNumbers\SwapNumbers\obj\Debug\SwapNumbers.exe
+C:\Users\ASUS\source\repos\SwapNumbers\SwapNumbers\obj\Debug\SwapNumbers.pdb
