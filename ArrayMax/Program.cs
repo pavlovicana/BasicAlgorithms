@@ -12,7 +12,7 @@ namespace ArrayMax
         {
             int[] arr1 = new int[7] { 2, 4, 6, 8, 2, 12, 22 };
             int max = MaxElem(arr1);
-            Console.WriteLine("Maximum element of this array is: {0}",max);
+            Console.WriteLine("Maximum element of this array is: {0}",max); -m "Ovo je komentar"
             Console.ReadLine();
 
         }
